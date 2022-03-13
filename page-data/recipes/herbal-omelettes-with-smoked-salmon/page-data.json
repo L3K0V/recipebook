@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-js",
+    "path": "/recipes/herbal-omelettes-with-smoked-salmon/",
+    "result": {"data":{"cookRecipe":{"id":"75c6afdc-0863-559e-aa13-4984d9ffb5ca","internal":{"content":">> servings: 2\n>> dish: lunch/brunch\n>> difficulty: easy\n\nDice the @smoked salmon{75%g} and @pickles{100%g} and finely chop the @dill{1%bunch}. Mix them in a #bowl with @cream cheese{100%g}, @salt and @grounded black pepper{}. \n\nWhisk the @eggs{6} with the @milk{150%ml} and mix with the @oregano and @basil{}. In a #frying pan{}, fry omelettes from the mixture.\n\nWhen ready, fill with the prepared filling and roll into rolls."},"recipe":{"title":"Herbal omelettes with smoked salmon","totalTime":0}}},"pageContext":{"id":"75c6afdc-0863-559e-aa13-4984d9ffb5ca","slug":"herbal-omelettes-with-smoked-salmon","__params":{"slug":"herbal-omelettes-with-smoked-salmon"}}},
+    "staticQueryHashes": []}

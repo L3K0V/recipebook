@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-js",
+    "path": "/recipes/arabic-lentil-soup/",
+    "result": {"data":{"cookRecipe":{"id":"fcac4341-37f4-5b9e-a0cc-9de47d1b0db9","internal":{"content":">> servings: 2\n\nCut the @onion{1} , the @garlic cloves{2} and the @carrots{2} and stew in melted @butter{1%tbsp} for ~{3-4%minutes}. \n\nAdd @red lentils{75%g}, stew for a ~{few%minutes}. Then fill hot @vegetable broth{500%ml} and cook for another ~{10%minutes}. \n\nCut the @spinach{100%g} and the @parsley{1%bunch} and cook for another ~{2-3%minutes}. \n\nAdd the juice of the @lemon{1/2} and @salt{}."},"recipe":{"title":"Arabic lentil soup","totalTime":600}}},"pageContext":{"id":"fcac4341-37f4-5b9e-a0cc-9de47d1b0db9","slug":"arabic-lentil-soup","__params":{"slug":"arabic-lentil-soup"}}},
+    "staticQueryHashes": []}
