@@ -4,7 +4,7 @@ This a recipe book powered by [CookLang](https://cooklang.org) where all family 
 
 ## Getting started
 
-For now to use this recipe book you can use the CookCLI or the online CookLang Playground.
+For now to use this recipe book you can use the [CookCLI](https://github.com/cooklang/CookCLI) or the online [CookLang Playground](https://biowaffeln.github.io/cooklang-parser/).
 
 ### Read the recipe
 
