@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Recipe } from "cooklang";
 import { graphql, Link } from "gatsby";
-import { RecipeRenderer } from "../../compoments/RecipeRenderer";
+import { RecipeRenderer } from "../../components/RecipeRenderer";
 
 function RecipePage({ data }) {
   const cookData = data.cookRecipe;

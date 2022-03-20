@@ -75,12 +75,12 @@ export const RecipeRenderer: VFC<RecipeRendererProps> = ({ name, recipe }) => {
           </ul>
         </section>
       </div>
-      
+
       <ol className="list-decimal ml-6 mt-10 space-y-4">
         {recipe.steps.map((step, i) => (
           <li key={i} className="text-lg leading-relaxed">
             {step.line.map((token, i) => {
-              if (typeof token === 'string' ) {
+              if (typeof token === "string") {
                 return (
                   <span key={i} data-token="text">
                     {token}

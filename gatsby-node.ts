@@ -1,7 +1,7 @@
-const _ = require(`lodash`);
-const path = require("path");
-const cooklang = require(`cooklang`);
-const { createFilePath } = require(`gatsby-source-filesystem`);
+import _ from "lodash";
+import path from "path";
+import { createFilePath } from "gatsby-source-filesystem";
+import { Recipe } from "cooklang";
 const recipeTemplate = path.resolve("./src/templates/recipe.js");
 
 function unstable_shouldOnCreateNode({ node }) {
@@ -42,7 +42,7 @@ module.exports.onCreateNode = async function onCreateNode({
   });
 
   try {
-    const data = new cooklang.Recipe(content);
+    const data = new Recipe(content);
 
     const recipeNode: any = {
       id: createNodeId(`${node.id} >>> CookRecipe`),
