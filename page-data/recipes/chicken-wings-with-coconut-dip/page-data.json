@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-js",
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
     "path": "/recipes/chicken-wings-with-coconut-dip/",
     "result": {"data":{"cookRecipe":{"id":"ce7fa53d-5b16-5df3-8803-81dfc15775d1","internal":{"content":">> servings: 2\n>> difficulty: easy\n\nFinely chop the @peanuts{50%g}. Grate the zest of @lime{1} and squeeze the juice from it. Grate the @ginger{1} and chop the @mint{1%bunch}. \n\nMix in a #bowl the grated ginger, @peanut butter{2%tbsp}, @coconut milk{25%ml}, @soy sauce{1%tbsp}, @chili{}, lime juice, @olive oil{} and the peanuts.\n\nBake the @chicken wings{400%g} in a #baking tray{} at 200 degrees Celsius for about 20 to ~{30%minutes}.\n\nServe with the coconut dip."},"recipe":{"title":"Chicken wings with coconut dip","totalTime":1800}}},"pageContext":{"id":"ce7fa53d-5b16-5df3-8803-81dfc15775d1","slug":"chicken-wings-with-coconut-dip","__params":{"slug":"chicken-wings-with-coconut-dip"}}},
     "staticQueryHashes": []}

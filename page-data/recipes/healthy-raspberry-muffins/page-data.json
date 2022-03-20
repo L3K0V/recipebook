@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-js",
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
     "path": "/recipes/healthy-raspberry-muffins/",
     "result": {"data":{"cookRecipe":{"id":"6aba9d4b-7e70-582b-9d71-7cc8c364a9b5","internal":{"content":">> Servings: 12 pieces\n>> Difficulty: Medium\n\nPreheat the oven to 200 degrees. \n\nMix the @oats{200%g}, @almond flour{100%g}, @baking powder{2%tbsp} and @salt{a pinch of} in a #bowl{}. Add the mashed @bananas{2}, @oat milk{250%ml} and melted @ghee{80%g}. Finally add the frozen/fresh @raspberries{150%g}.\n\nPour the mixture into a #silicone muffin tray{}.\n\nBake for about ~{25 minutes}."},"recipe":{"title":"Healthy raspberry muffins","totalTime":0}}},"pageContext":{"id":"6aba9d4b-7e70-582b-9d71-7cc8c364a9b5","slug":"healthy-raspberry-muffins","__params":{"slug":"healthy-raspberry-muffins"}}},
     "staticQueryHashes": []}
