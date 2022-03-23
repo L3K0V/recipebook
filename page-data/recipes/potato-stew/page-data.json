@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
-    "path": "/recipes/potato-stew/",
-    "result": {"data":{"cookRecipe":{"id":"095b8979-1d4a-5f95-a18e-2a562a18ab2a","internal":{"content":">> tags: spizing, spanish\n\nHeat @olive oil{50%ml} in a thick-bottomed #saucepan at medium temperature. Add @onions{2}, cut into crescents and @sweet peppers{2} cut into strips and cook for about ~{15%minutes}.\n\nAdd chopped @garlic{5-6%cloves} and cook for another ~{2-3%minutes}.\n\nAdd @Spanish Spice Mix{1%tbsp} and diced or grated @tomatoes{2}. Mix well.\n\nCut @potatoes{1%kg} into large cubes and add them to the pan.\n\nPour @wine vinegar{2%tbsp} and @water{1%liter} (or broth for a more intense taste)\n\nAdd @salt to taste.\n\nBring to the boil and cook for about ~{25%minutes} or until the potatoes are fully cooked."},"recipe":{"title":"Potato stew","totalTime":2400}}},"pageContext":{"id":"095b8979-1d4a-5f95-a18e-2a562a18ab2a","slug":"potato-stew","__params":{"slug":"potato-stew"}}},
-    "staticQueryHashes": []}
