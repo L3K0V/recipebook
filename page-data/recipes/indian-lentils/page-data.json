@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
+    "path": "/recipes/indian-lentils/",
+    "result": {"data":{"cookRecipe":{"id":"132a3599-d344-590b-b825-fe78a9712f7d","internal":{"content":">> tags: spizing, indian\n\nBoil @red lentils{250%g} in @water{1%liter} (optionally with  @turmeric{1/2%tsp}) about ~{10%minutes} after boiling.\n\nIn a #pan{}, heated to medium heat @olive oil{}, cook finely chopped @onion{1} with a little @salt until light brown.\n\nAdd grated @ginger{1%tbsp}, grated @garlic{5-6%cloves} and, if desired, @hot red pepper{} and cook for another ~{1-2%minutes}.\n\nAdd @Indian Curry Mix{1%tbsp} and stir.\n\nIf necessary, add water to the lentils - it should not be too thick and add the mixture with onions. Bring to a boil and cook for ~{1-2%minutes}.\n\nFinish with @lemon and, if desired, @fresh coriander{}."},"recipe":{"title":"Indian lentils","totalTime":600}}},"pageContext":{"id":"132a3599-d344-590b-b825-fe78a9712f7d","slug":"indian-lentils","__params":{"slug":"indian-lentils"}}},
+    "staticQueryHashes": []}
