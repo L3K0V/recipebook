@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
-    "path": "/recipes/spizingroasted-fish/",
-    "result": {"data":{"cookRecipe":{"id":"cce6e13a-1684-5329-a752-b886bccc623c","internal":{"content":">> tags: spizing, italian\n\nTake a whole cleaned @fish{1%kg}. Make incisions in her skin.\n\nRub the fish inside and out with @Italian Spice Mix{}, @salt, @olive oil{} and juice of @lemon{1}.\n\nOptionally, add fresh @dill and sliced @lemon{1} to the fish.\n\nBake in a preheated 180 degree #oven for about ~{25%minutes} or until done."},"recipe":{"title":"Roasted fish","totalTime":1500}}},"pageContext":{"id":"cce6e13a-1684-5329-a752-b886bccc623c","slug":"spizingroasted-fish","__params":{"slug":"spizingroasted-fish"}}},
-    "staticQueryHashes": []}

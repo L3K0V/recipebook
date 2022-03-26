@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/italian",
+    "result": {"data":{"allCookRecipe":{"nodes":[{"slug":"spizing-roasted-fish","recipe":{"title":"Roasted fish","totalTime":1500}},{"slug":"spizing-stuffed-pasta-with-cheese-and-tomatoes","recipe":{"title":"Stuffed pasta with cheese and tomatoes","totalTime":0}}]},"tags":{"group":[{"tag":"american","totalCount":2},{"tag":"chinese","totalCount":2},{"tag":"hot","totalCount":2},{"tag":"indian","totalCount":2},{"tag":"italian","totalCount":2},{"tag":"mexican","totalCount":2},{"tag":"moroccan","totalCount":1},{"tag":"spanish","totalCount":2},{"tag":"spizing","totalCount":15},{"tag":"turkish","totalCount":2},{"tag":"vegeterian","totalCount":3}]}},"pageContext":{"tag":"italian","limit":12,"skip":0,"numPages":1,"currentPage":1}},
+    "staticQueryHashes": []}

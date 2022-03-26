@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
+    "path": "/recipes/spizing-spanish-skewers/",
+    "result": {"data":{"cookRecipe":{"id":"d5ccd9f7-65b1-5995-9482-d5510e1ebfd0","internal":{"content":">> tags: spizing, spanish\n\nCut @pork tenderloin{1%kg} or @chicken breast{1%kg} in pieces of about 2-3 cm. Instead of meat you can use whole fresh, peeled @shrimp{1%kg}.\n\nMix @Spanish Spice mix{1%tbsp} with 6-7 grated @garlic{6-7%cloves}, @olive oil{6-7%tbsp} and @salt and make the marinade.\n\nStir in the meat / shrimp and marinade and refrigerate for ~{1%hour}.\n\nString on skewers and bake in a preheated #pan over medium heat for no more than ~{3%minutes} per side"},"recipe":{"title":"Spanish skewers","totalTime":3780}}},"pageContext":{"id":"d5ccd9f7-65b1-5995-9482-d5510e1ebfd0","slug":"spizing-spanish-skewers","__params":{"slug":"spizing-spanish-skewers"}}},
+    "staticQueryHashes": []}

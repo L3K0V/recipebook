@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-recipes-cook-recipe-slug-jsx",
+    "path": "/recipes/spizing-chicken-on-a-skewer/",
+    "result": {"data":{"cookRecipe":{"id":"f1868ba6-4fb3-5d82-9704-574dc694f42c","internal":{"content":">> tags: spizing, turkish\n\nCut @chicken legs{4} into equal pieces.\n\nMix @yogurt{300%g} with chopped @onion{1}, crushed @garlic{3%cloves}, @tomato paste{1%tbsp}, @Turkish Spice mix{1/5%tbsp}, juice of a @lemon{1/2}, @olive oil{2%tbsp} and @salt{1%tbsp}. Stir well and marinate the chicken in the mixture for at least ~{1%hour}.\n\nString the meat on skewers.\n\nBake on maximum grill in a #pan with a grill{} for about ~{40%minutes} until the meat is cooked and tanned at the corners. Turn over the middle of the roast."},"recipe":{"title":"Chicken on a skewer","totalTime":6000}}},"pageContext":{"id":"f1868ba6-4fb3-5d82-9704-574dc694f42c","slug":"spizing-chicken-on-a-skewer","__params":{"slug":"spizing-chicken-on-a-skewer"}}},
+    "staticQueryHashes": []}

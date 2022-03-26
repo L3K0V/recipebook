@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-recipes-jsx",
+    "path": "/3",
+    "result": {"data":{"allCookRecipe":{"nodes":[{"slug":"spizing-tofu-salad","recipe":{"title":"Tofu salad","totalTime":30}},{"slug":"spizing-turkish-lentils","recipe":{"title":"Turkish lentils","totalTime":300}},{"slug":"spizing-vegetarian-enchiladas","recipe":{"title":"Vegetarian enchiladas","totalTime":600}}]},"tags":{"group":[{"tag":"american","totalCount":2},{"tag":"chinese","totalCount":2},{"tag":"hot","totalCount":2},{"tag":"indian","totalCount":2},{"tag":"italian","totalCount":2},{"tag":"mexican","totalCount":2},{"tag":"moroccan","totalCount":1},{"tag":"spanish","totalCount":2},{"tag":"spizing","totalCount":15},{"tag":"turkish","totalCount":2},{"tag":"vegeterian","totalCount":3}]}},"pageContext":{"limit":12,"skip":24,"numPages":3,"currentPage":3}},
+    "staticQueryHashes": []}
