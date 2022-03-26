@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkrecipebook=self.webpackChunkrecipebook||[]).push([[814],{1427:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});t(1597);var a=t(7294);function r(e){var n=e.data,t=n.allCookRecipe.nodes,r=void 0===t?[]:t,u=(n.tags,e.pageContext),c=u.currentPage,o=u.numPages,i=u.tag;return a.createElement("div",null,a.createElement("h1",null,i),JSON.stringify(r),c," / ",o)}}}]);
-//# sourceMappingURL=component---src-templates-tag-jsx-d9377023b8945faebe63.js.map
