@@ -1,6 +1,7 @@
 import * as React from "react";
 import { Recipe } from "cooklang";
 import { graphql, Link } from "gatsby";
+import { PageLayout } from "../../components/PageLayout";
 import { RecipeRenderer } from "../../components/RecipeRenderer";
 
 function RecipePage({ data }) {
@@ -8,14 +9,11 @@ function RecipePage({ data }) {
   const recipe = new Recipe(cookData.internal.content);
 
   return (
-    <div className="wrapper">
-      <header>
-        <Link to="/">Go back to "Home"</Link>
-      </header>
-      <main>
+    <PageLayout>
+      <div className="container mx-auto">
         <RecipeRenderer name={cookData.recipe.title} recipe={recipe} />
-      </main>
-    </div>
+      </div>
+    </PageLayout>
   );
 }
 
